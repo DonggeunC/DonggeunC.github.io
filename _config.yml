@@ -9,7 +9,7 @@ version: 2
 name: 조동근
 title: Embedded Software Engineer
 email: ehdrms249@naver.com 
-website: www.github.com/sproogen/resume-theme
+website: https://github.com/DonggeunC
 
 # Dark Mode (true/false/never)
 darkmode: false
