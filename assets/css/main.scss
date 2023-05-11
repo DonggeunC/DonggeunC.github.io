@@ -1,0 +1,9 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'modern-resume-theme';
+
+body {
+  background-image: url("{{ site.background_image | prepend: site.baseurl }}");
+}
