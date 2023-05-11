@@ -117,7 +117,7 @@ content:
           - ORB Detector를 사용하여 표지판을 인식하고 표지판에 따른 제어 메세지를 Main node에 송신
           - Contour를 이용하여 차선차단기의 패턴을 찾고 Contour영역의 중심점을 선으로 이어 개폐를 판단
           - LiDAR센서를 이용하여 Map을 그리고, SLAM을 사용하여 Navigation을 사용
-          - Vim, Visual Studio, Linux, Unbuntu 16.04 & 18.04 , ROS Kinetic & Melodic 등을 사용
+          - Vim, Visual Studio, Linux, Ubuntu 16.04 & 18.04 , ROS Kinetic & Melodic 등을 사용
 
       - layout: left
         title: Container Management Platform <br/> (IoT 오픈플랫폼 프로젝트)
