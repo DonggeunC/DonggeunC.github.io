@@ -65,13 +65,13 @@ content:
         title: 리눅스마스터 2급       
         sub_title: 한국정보통신진흥협회      
         description: | # this will include new lines to allow paragraphs
-            - 2023.03.31 취득
+            - 2023/03/31 취득
             
       - layout: left
         title: 운전면허증 1종 보통       
         sub_title: 서울지방경찰청
         description: | # this will include new lines to allow paragraphs
-            - 2018.09.17 취득
+            - 2018/06/21 취득
 
   - title: Project # Title for the section  
     layout: list # Type of content section (list/text)
@@ -81,7 +81,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           Arduino, RFID, C, C++, Interrupt, Servo Motor, UART <br/>
-        caption: 2023.01.22 - 01.29
+        caption: 2023/01/22 - 01/29
         description: | # this will include new lines to allow paragraphs
           - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
           - Serial 통신을 사용하여 송신부와 수신부의 분리
@@ -91,8 +91,8 @@ content:
         title: AutoNav 자율주행시스템 <br/> (2023 ICT 융합 프로젝트 공모전)
         sub_title: |
           사용 기술 : <br/>
-          C, C++, JAVA, Python ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
-        caption: 2023.02.20 - 진행 중
+          C, C++, JAVA, Python, ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
+        caption: 2023/02/20 - 진행 중
         description: | # this will include new lines to allow paragraphs
           - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
           - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
@@ -104,7 +104,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Intterupt <br/>
-        caption: 2023.04.02 - 04.10
+        caption: 2023/04/02 - 04/10
         description: | # this will include new lines to allow paragraphs
           - Linux에 서버를 만들어 Arduino, Cortex M4, Android 서로 통신시스템을 구현
           - 용기의 상태를 Arduino 보드에 초음파 센서와 온습도 센서등을 달아 현상태를 실시간으로 서버에 전송
@@ -121,14 +121,14 @@ content:
         link: www.kccistc.net
         # link_text: http://www.kccistc.net/
         sub_title: 자율형 IOT기반 Reality AI융합 전문가 [일반인]
-        caption: 22.12.20 - 23.07.10       
+        caption: 22/12/20 - 23/07/10       
         description: | # this will include new lines to allow paragraphs
             - 저를 임베디드 개발자로서 만들어준 곳 이며, MCU에 대해 자세하게 배우고 다양한 센서를 C, C++, Python 등의 프로그래밍 언어로 제어하며 통제하는 방법을 습득하였습니다. 이를 기반으로 공모전이나 팀 프로젝트를 진행하여 결과물을 도출하면서 실력을 쌓았습니다.
             이러한 경험은 저에게 프로그래밍 분야에서 더욱 깊은 이해와 창의성을 키울 수 있는 기반이 되었습니다.
 
       - layout: left
         title: 서울시립대학교
-        caption: 2010 - 2018
+        caption: 2010/03 - 2018/02
         sub_title: 전자전기컴퓨터공학부        
         description: | # this will include new lines to allow paragraphs
           - 
