@@ -73,6 +73,18 @@ content:
         sub_title: 서울지방경찰청
         description: | # this will include new lines to allow paragraphs
             - 2018/06/21 취득
+      
+      - layout: left
+        title: 한자능력검정 3급       
+        sub_title: 사단법인한국어문회
+        description: | # this will include new lines to allow paragraphs
+            - 2003/06/03 취득
+      
+      - layout: left
+        title: 워드프로세서 2급       
+        sub_title: 
+        description: | # this will include new lines to allow paragraphs
+            - 2002/12/24 취득
 
   - title: Project # Title for the section  
     layout: list # Type of content section (list/text)
@@ -84,7 +96,9 @@ content:
           Arduino, RFID, C, C++, Interrupt, Servo Motor, UART <br/>
         caption: 2023/01/22 - 01/29
         description: | # this will include new lines to allow paragraphs
-          - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
+          - Arduino RFID를 통해 ID 등록 후 등록된 ID가 Acsess 되었을 때 시스템을 제어할 수 있도록 구현
+          - 온습도, Flame 센서 등을 이용하여 얻은 데이터를 LCD에 전달하여 정보를 확인할 수 있도록 구현
+          - 적외선 Remote Controller를 이용하여 Step Motor 및 Servo Motor 구현 가능하도록 설정
           - Serial 통신을 사용하여 송신부와 수신부의 분리
           - Arduino IDE를 프로그램 사용
       
