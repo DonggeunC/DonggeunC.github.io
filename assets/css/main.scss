@@ -5,7 +5,7 @@
 @import 'modern-resume-theme';
 
 body {
-  background-image: url(/images/bg.jpg);
-  background-size: cover;
+  background-image: url("{{ site.background_image | prepend: site.baseurl }}");
+  background-size: contain;
   background-attachment: scroll;
 }
